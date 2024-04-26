@@ -1,7 +1,5 @@
 # Sanitize Excel
 
-<img src="https://raw.githubusercontent.com/vipinvkumar/sanitizes_excel/main/public/excel_sanitize.png" alt="Sanitize Excel" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-
 Sanitize Excel is a web app that allows you to upload an Excel file and then download a new Excel file with sanitized data. It trims leading and trailing spaces from string values, converts numbers to their numerical form, and converts booleans to their boolean form. It also keeps dates as is.
 
 ### Installation
